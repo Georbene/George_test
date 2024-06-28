@@ -1,0 +1,136 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navi{
+    display: flex;
+padding: 20px;
+gap: 30px;
+}
+.firim{
+    margin-left: 50px;
+    margin-top: -10px;
+}
+.allserh{
+margin-left: 150px;
+border: none;
+}
+.on{
+    font-size: 15px;
+}
+.on:hover{
+text-decoration: underline;
+}
+.anoim{
+    margin-top: -30PX;
+}
+.beim{
+    margin-top: -400px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 100px;
+}
+.get{
+    margin-left: 100px;
+}
+.for1{
+    margin-left: 100px;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    background-color: #0067B8;
+    color: white;
+    border: none;
+}
+.for6{
+
+    font-weight: 500;
+    margin-left: 250px;
+    margin-top: -30px;
+}
+.grid{
+    margin-top: 350px;
+    margin-left: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+.shaw{
+    box-shadow: 1px 1px 2px 1px;
+    width: 300px;
+}
+.shaw1{
+    box-shadow: 1px 1px 2px 1px;
+    width: 300px;
+}
+.shaw2{
+    box-shadow: 1px 1px 2px 1px;
+    width: 300px;
+}
+.shaw3{
+    box-shadow: 1px 1px 2px 1px;
+    width: 300px;
+}
+.dp{
+    font-size: 25px;
+    font-weight: 600;
+}
+.see{
+    background-color: #005CA5;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-weight: 500;
+}
+.see1{
+    background-color: #005CA5;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-weight: 500;
+    margin-top: 100px;
+}
+.see2{
+    background-color: #005CA5;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-weight: 500;
+margin-top: 123px;
+}
+.see3{
+    background-color: #005CA5;
+    border: none;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-weight: 500;
+margin-top: 145px;
+}
+.phons{
+text-align: center;
+    margin-top: 100px;
+}
+.outl{
+    font-size: 25px;
+    font-weight: 700;
+}
+.ser{
+    margin-left: -800px;
+    margin-top: -250px;
+}
+.dnow{
+    width: 150px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color: #005CA5;
+}
+.busi{
+    margin-top: 150px;
+    margin-left: 70px;
+}
